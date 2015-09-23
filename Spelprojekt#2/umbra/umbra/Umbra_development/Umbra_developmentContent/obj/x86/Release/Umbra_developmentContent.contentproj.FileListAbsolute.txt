@@ -1,0 +1,4 @@
+C:\Users\solidmir0\Downloads\Umbra\Umbra\Umbra_development\Umbra_developmentContent\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Umbra2\Umbra_development\Umbra_developmentContent\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Markus\Högskola\Projekt_Umbra\Umbra4.0\Umbra3.5SaveLoad\umbra3_xbox3 (HP-Fix)\umbra3_xbox3\umbra3\Umbra_development\Umbra_developmentContent\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Skolan\umbra4_Finished\umbra4\umbra3\Umbra_development\Umbra_developmentContent\obj\x86\Release\Umbra_developmentContent.contentprojResolveAssemblyReference.cache
